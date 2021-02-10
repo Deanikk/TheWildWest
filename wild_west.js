@@ -79,7 +79,7 @@ lib.ssMetadata = [
 		{name:"wild_west_atlas_74", frames: [[369,1794,1245,185],[643,0,1324,181],[0,1381,367,632],[993,366,373,636],[0,801,414,578],[1368,366,373,634],[416,1025,373,632],[606,389,385,634],[993,1004,621,381],[0,389,604,410],[0,0,641,387],[791,1387,577,405],[1370,1387,605,379],[643,183,1324,181]]},
 		{name:"wild_west_atlas_75", frames: [[1120,411,382,514],[1413,1590,354,432],[0,983,366,572],[1628,0,384,518],[1335,927,561,323],[389,424,347,573],[894,944,439,425],[1413,1252,522,336],[0,0,566,398],[568,0,526,422],[1504,520,524,371],[0,1557,470,416],[960,1371,451,408],[472,1372,486,387],[1096,0,530,409],[368,999,524,371],[738,424,380,518],[0,400,387,581]]},
 		{name:"wild_west_atlas_76", frames: [[1135,0,192,747],[1816,0,192,672],[0,1302,331,336],[841,0,292,500],[778,861,237,440],[388,392,307,422],[739,1711,322,277],[1704,1300,311,366],[697,502,358,357],[1329,327,485,274],[0,1640,315,313],[0,0,461,325],[1329,0,433,325],[388,861,388,302],[1251,1295,451,257],[0,327,386,350],[463,0,376,390],[1573,1668,343,270],[388,1165,388,302],[317,1742,420,218],[1108,1554,463,217],[778,1370,328,339],[1329,603,297,422],[1057,749,192,619],[1628,674,195,619],[0,679,192,621],[194,679,192,621],[1825,674,192,624],[333,1469,384,271]]},
-		{name:"wild_west_atlas_77", frames: [[648,285,376,218],[1525,644,393,192],[1663,248,385,196],[381,1687,387,193],[742,1342,386,197],[0,1832,379,214],[1309,0,352,248],[0,0,322,277],[0,1612,376,218],[1525,838,393,192],[1130,1245,385,196],[770,1687,387,193],[742,725,384,204],[364,787,376,218],[0,837,362,238],[965,0,342,257],[0,279,322,277],[648,0,315,283],[1517,1425,315,239],[1159,1666,387,193],[1525,1032,393,192],[1125,1046,384,197],[1663,0,353,246],[324,0,322,277],[364,1007,376,218],[1128,658,395,192],[1130,1443,385,196],[1548,1666,387,193],[1026,259,386,197],[742,931,376,206],[0,1077,362,238],[0,558,322,277],[0,1317,290,293],[378,1541,520,144],[696,505,376,218],[1128,852,395,192],[1460,446,385,196],[742,1139,381,201],[1074,458,384,198],[1517,1226,383,197],[364,1227,376,206],[324,558,370,227],[324,279,322,277]]},
+		{name:"wild_west_atlas_77", frames: [[648,285,376,218],[1525,644,393,192],[1663,248,385,196],[381,1687,387,193],[742,1342,386,197],[0,1832,379,214],[1309,0,352,248],[0,0,322,277],[0,1612,376,218],[1525,838,393,192],[1130,1245,385,196],[770,1687,387,193],[742,725,384,204],[364,787,376,218],[0,837,362,238],[965,0,342,257],[0,279,322,277],[648,0,315,283],[1517,1231,315,239],[1159,1666,387,193],[1517,1472,392,192],[1125,1046,384,197],[1663,0,353,246],[324,0,322,277],[364,1007,376,218],[1128,658,395,192],[1130,1443,385,196],[1548,1666,387,193],[1026,259,386,197],[742,931,376,206],[0,1077,362,238],[0,558,322,277],[0,1317,290,293],[378,1541,520,144],[696,505,376,218],[1128,852,395,192],[1460,446,385,196],[742,1139,381,201],[1074,458,384,198],[1525,1032,383,197],[364,1227,376,206],[324,558,370,227],[324,279,322,277]]},
 		{name:"wild_west_atlas_78", frames: [[0,195,309,241],[0,438,309,241],[0,681,309,241],[1297,1403,231,223],[1557,1220,231,223],[1530,1445,231,223],[1764,1647,173,250],[1063,914,281,189],[232,1502,291,171],[467,1282,262,218],[0,1762,246,238],[244,1167,221,263],[311,340,246,238],[1346,626,281,189],[1346,817,281,189],[807,810,254,218],[388,0,388,192],[248,1675,291,171],[1629,647,281,189],[1629,838,281,189],[0,1471,230,289],[1400,434,281,190],[863,314,266,214],[1346,1008,281,189],[311,580,246,238],[1629,1029,281,189],[543,1801,295,164],[0,1167,242,302],[778,0,388,192],[730,1060,281,189],[559,340,246,238],[311,820,246,238],[467,1060,261,220],[541,1633,294,166],[1525,1670,237,194],[1331,1870,244,178],[1912,647,134,336],[0,0,386,193],[731,1251,281,189],[731,1442,281,189],[559,580,246,238],[1686,194,226,259],[1014,1105,281,189],[1014,1296,281,189],[1014,1487,281,189],[1131,314,267,210],[1168,0,388,192],[1558,0,388,192],[0,924,309,241],[840,1678,295,163],[1790,1220,245,207],[1683,455,281,190],[559,820,246,238],[1763,1445,257,200],[807,530,203,278],[1438,194,246,238],[1012,530,281,190],[1063,722,281,190],[248,1848,293,168],[1297,1199,258,202],[388,194,473,144],[863,194,573,118],[1137,1678,192,240],[1331,1628,192,240]]},
 		{name:"wild_west_atlas_79", frames: [[776,0,305,140],[1967,844,78,81],[598,519,87,80],[1304,1604,104,100],[870,1086,110,111],[1187,1405,139,135],[221,1234,148,176],[798,1468,102,143],[1099,1634,78,81],[1545,651,90,115],[0,0,173,250],[1884,1622,87,80],[104,1549,110,111],[626,1222,148,177],[1179,1634,78,81],[1448,807,90,115],[175,0,173,250],[686,1629,87,80],[798,1619,104,100],[216,1549,110,111],[189,1412,139,135],[1091,1226,148,177],[0,1470,102,143],[1083,0,305,140],[1390,0,305,140],[1227,954,219,134],[1231,807,215,145],[598,603,209,154],[1246,449,189,172],[1123,623,209,154],[428,962,219,134],[1448,938,215,144],[0,1062,219,134],[1004,1081,219,134],[1671,1346,220,113],[428,915,94,34],[1697,0,305,140],[1448,1084,219,134],[1025,284,219,184],[1748,284,219,166],[1669,1084,219,134],[1648,626,209,154],[922,470,199,163],[1665,938,215,144],[649,1086,219,134],[1391,1352,220,113],[1010,1620,87,97],[633,759,158,201],[1246,284,246,163],[776,142,305,140],[2004,0,29,130],[211,915,215,145],[1469,1467,102,175],[0,631,209,154],[307,252,179,211],[395,519,201,161],[809,635,209,154],[1225,1090,219,134],[1446,1220,223,130],[434,1507,97,145],[593,1401,91,231],[525,175,229,183],[0,394,193,186],[1890,938,113,249],[1083,142,305,140],[1390,142,305,140],[1697,142,305,140],[221,1098,219,134],[1334,651,209,154],[719,439,201,162],[211,682,209,154],[1648,452,189,172],[1839,452,189,172],[793,791,214,147],[422,759,209,154],[1671,1220,221,124],[776,1353,220,113],[2035,0,11,11],[2033,132,12,10],[0,252,305,140],[0,1198,219,134],[1009,935,216,144],[488,360,229,157],[1020,779,209,154],[1545,782,209,154],[195,465,198,164],[1756,782,209,154],[0,787,209,154],[870,1217,219,134],[371,1392,220,113],[0,943,172,107],[525,0,249,173],[2004,132,27,114],[902,1468,94,149],[1020,635,93,133],[442,1098,182,156],[1494,434,152,215],[686,1468,110,159],[561,1256,61,63],[1969,284,71,90],[1894,1189,135,196],[1969,376,68,63],[1967,763,81,79],[1796,1622,86,87],[1685,1552,109,106],[1123,470,116,138],[0,1615,80,112],[1410,1644,78,81],[776,1222,90,115],[350,0,173,250],[533,1634,87,80],[904,1620,104,100],[1573,1552,110,111],[1328,1467,139,135],[1241,1226,148,177],[330,1507,102,143],[998,1405,187,121],[756,284,267,153],[422,682,151,58],[211,838,151,58],[998,1528,151,90],[1851,1530,151,90],[1151,1542,151,90],[1494,284,252,148],[649,962,129,102],[211,631,102,45],[0,582,157,47],[2004,248,32,32],[793,940,209,144],[1893,1387,153,141],[1859,626,187,135],[1437,449,42,44],[0,1334,187,134],[395,465,42,44],[1613,1461,236,89],[371,1256,188,134],[195,394,99,49]]}
 ];
@@ -9711,7 +9711,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_3.setTransform(136.9,-22.1,0.5,0.5);
 
 	this.instance_4 = new lib.CachedBmp_291();
-	this.instance_4.setTransform(232.8,-137,0.5,0.5);
+	this.instance_4.setTransform(232.9,-136.95,0.5,0.5);
 
 	this.instance_5 = new lib.CachedBmp_290();
 	this.instance_5.setTransform(-3.6,-166.55,0.5,0.5);
@@ -9720,7 +9720,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_6.setTransform(132.85,-99.55,0.5,0.5);
 
 	this.instance_7 = new lib.CachedBmp_294();
-	this.instance_7.setTransform(239.75,-205.9,0.5,0.5);
+	this.instance_7.setTransform(239.8,-205.75,0.5,0.5);
 
 	this.instance_8 = new lib.CachedBmp_293();
 	this.instance_8.setTransform(-1.65,-165.3,0.5,0.5);
@@ -9729,7 +9729,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_9.setTransform(118.8,-123.65,0.5,0.5);
 
 	this.instance_10 = new lib.CachedBmp_297();
-	this.instance_10.setTransform(218.6,-251.95,0.5,0.5);
+	this.instance_10.setTransform(218.7,-251.9,0.5,0.5);
 
 	this.instance_11 = new lib.CachedBmp_296();
 	this.instance_11.setTransform(2.45,-163.35,0.5,0.5);
@@ -9738,7 +9738,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_12.setTransform(114.5,-140.1,0.5,0.5);
 
 	this.instance_13 = new lib.CachedBmp_300();
-	this.instance_13.setTransform(164.45,-263.5,0.5,0.5);
+	this.instance_13.setTransform(164.55,-263.45,0.5,0.5);
 
 	this.instance_14 = new lib.CachedBmp_299();
 	this.instance_14.setTransform(-3.6,-162.3,0.5,0.5);
@@ -9747,7 +9747,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_15.setTransform(115.8,-147.4,0.5,0.5);
 
 	this.instance_16 = new lib.CachedBmp_303();
-	this.instance_16.setTransform(146.75,-183.85,0.5,0.5);
+	this.instance_16.setTransform(146.85,-183.75,0.5,0.5);
 
 	this.instance_17 = new lib.CachedBmp_302();
 	this.instance_17.setTransform(-3.75,-159.65,0.5,0.5);
@@ -9755,7 +9755,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_18 = new lib.CachedBmp_301();
 	this.instance_18.setTransform(115.55,-93.9,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2,p:{regX:77.3,regY:60.2,scaleX:1,scaleY:1,rotation:0,x:236.7,y:-57.9}},{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_2,p:{regX:77.7,regY:59.6,scaleX:0.9999,scaleY:0.9999,rotation:-7.9942,x:321.6,y:-90.1}},{t:this.instance_4}]},5).to({state:[{t:this.instance_9},{t:this.instance_8},{t:this.instance_2,p:{regX:78,regY:59.6,scaleX:0.9997,scaleY:0.9997,rotation:-24.2359,x:322.45,y:-148.15}},{t:this.instance_7}]},5).to({state:[{t:this.instance_12},{t:this.instance_11},{t:this.instance_2,p:{regX:77.8,regY:59.9,scaleX:0.9997,scaleY:0.9997,rotation:-29.9994,x:298.05,y:-190.9}},{t:this.instance_10}]},6).to({state:[{t:this.instance_15},{t:this.instance_14},{t:this.instance_2,p:{regX:77.9,regY:59.8,scaleX:0.9997,scaleY:0.9997,rotation:-29.9994,x:243.95,y:-202.6}},{t:this.instance_13}]},6).to({state:[{t:this.instance_18},{t:this.instance_17},{t:this.instance_2,p:{regX:77.8,regY:60,scaleX:0.9998,scaleY:0.9998,rotation:-14.9983,x:233.75,y:-131.45}},{t:this.instance_16}]},5).wait(13));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2,p:{regX:77.3,regY:60.2,scaleX:1,scaleY:1,rotation:0,x:236.7,y:-57.9}},{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_2,p:{regX:77.8,regY:59.6,scaleX:0.9998,scaleY:0.9998,rotation:-7.9943,x:321.65,y:-90}},{t:this.instance_4}]},6).to({state:[{t:this.instance_9},{t:this.instance_8},{t:this.instance_2,p:{regX:78,regY:59.6,scaleX:0.9997,scaleY:0.9997,rotation:-24.2358,x:322.4,y:-148.05}},{t:this.instance_7}]},6).to({state:[{t:this.instance_12},{t:this.instance_11},{t:this.instance_2,p:{regX:77.9,regY:59.8,scaleX:0.9997,scaleY:0.9997,rotation:-29.999,x:298.1,y:-190.95}},{t:this.instance_10}]},7).to({state:[{t:this.instance_15},{t:this.instance_14},{t:this.instance_2,p:{regX:77.9,regY:59.8,scaleX:0.9997,scaleY:0.9997,rotation:-29.999,x:243.95,y:-202.6}},{t:this.instance_13}]},7).to({state:[{t:this.instance_18},{t:this.instance_17},{t:this.instance_2,p:{regX:77.8,regY:60,scaleX:0.9997,scaleY:0.9997,rotation:-14.9979,x:233.75,y:-131.45}},{t:this.instance_16}]},6).wait(20));
 
 	this._renderFirstFrame();
 
@@ -9832,12 +9832,12 @@ if (reversed == null) { reversed = false; }
 	this.instance_18 = new lib.CachedBmp_283();
 	this.instance_18.setTransform(115.55,-132.9,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1,p:{rotation:0,x:247.45,y:-50.5,regX:45,regY:126.8,scaleX:1,scaleY:1}},{t:this.instance}]}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_1,p:{rotation:-14.9983,x:271.65,y:-73.35,regX:45,regY:126.8,scaleX:1,scaleY:1}},{t:this.instance_4}]},5).to({state:[{t:this.instance_9},{t:this.instance_8},{t:this.instance_1,p:{rotation:-29.9992,x:288.55,y:-133.95,regX:45.1,regY:126.8,scaleX:1,scaleY:1}},{t:this.instance_7}]},5).to({state:[{t:this.instance_12},{t:this.instance_11},{t:this.instance_1,p:{rotation:-36.1846,x:264.8,y:-182.95,regX:45.6,regY:126.9,scaleX:0.9998,scaleY:0.9998}},{t:this.instance_10}]},5).to({state:[{t:this.instance_15},{t:this.instance_14},{t:this.instance_1,p:{rotation:-29.9937,x:232.25,y:-187.85,regX:45.6,regY:126.7,scaleX:0.9998,scaleY:0.9998}},{t:this.instance_13}]},5).to({state:[{t:this.instance_18},{t:this.instance_17},{t:this.instance_1,p:{rotation:-22.7103,x:209.75,y:-159.35,regX:45.2,regY:126.6,scaleX:0.9999,scaleY:0.9999}},{t:this.instance_16}]},6).wait(13));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1,p:{rotation:0,x:247.45,y:-50.5,regX:45,regY:126.8,scaleX:1,scaleY:1}},{t:this.instance}]}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_1,p:{rotation:-14.9983,x:271.65,y:-73.35,regX:45,regY:126.8,scaleX:1,scaleY:1}},{t:this.instance_4}]},6).to({state:[{t:this.instance_9},{t:this.instance_8},{t:this.instance_1,p:{rotation:-29.9992,x:288.55,y:-133.95,regX:45.1,regY:126.8,scaleX:1,scaleY:1}},{t:this.instance_7}]},6).to({state:[{t:this.instance_12},{t:this.instance_11},{t:this.instance_1,p:{rotation:-36.1844,x:264.8,y:-182.95,regX:45.7,regY:126.9,scaleX:0.9997,scaleY:0.9997}},{t:this.instance_10}]},6).to({state:[{t:this.instance_15},{t:this.instance_14},{t:this.instance_1,p:{rotation:-29.9934,x:232.35,y:-187.9,regX:45.8,regY:126.7,scaleX:0.9997,scaleY:0.9997}},{t:this.instance_13}]},6).to({state:[{t:this.instance_18},{t:this.instance_17},{t:this.instance_1,p:{rotation:-22.7103,x:209.75,y:-159.35,regX:45.2,regY:126.6,scaleX:0.9999,scaleY:0.9999}},{t:this.instance_16}]},7).wait(21));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-3.7,-267,372.2,513.2);
+p.nominalBounds = new cjs.Rectangle(-3.7,-266.9,372.2,513.0999999999999);
 
 
 (lib.pullingDown2_stone = function(mode,startPosition,loop,reversed) {
@@ -11144,7 +11144,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_3.setTransform(133.05,-78.6,0.5,0.5);
 
 	this.instance_4 = new lib.CachedBmp_255();
-	this.instance_4.setTransform(178.5,-177.4,0.5,0.5);
+	this.instance_4.setTransform(178.55,-177.35,0.5,0.5);
 
 	this.instance_5 = new lib.CachedBmp_254();
 	this.instance_5.setTransform(-3.6,-166.55,0.5,0.5);
@@ -11153,7 +11153,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_6.setTransform(132.85,-114.6,0.5,0.5);
 
 	this.instance_7 = new lib.CachedBmp_258();
-	this.instance_7.setTransform(209.6,-192.7,0.5,0.5);
+	this.instance_7.setTransform(209.6,-192.65,0.5,0.5);
 
 	this.instance_8 = new lib.CachedBmp_257();
 	this.instance_8.setTransform(-1.65,-165.3,0.5,0.5);
@@ -11162,7 +11162,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_9.setTransform(118.8,-135.15,0.5,0.5);
 
 	this.instance_10 = new lib.CachedBmp_261();
-	this.instance_10.setTransform(176.3,-235,0.5,0.5);
+	this.instance_10.setTransform(176.35,-235,0.5,0.5);
 
 	this.instance_11 = new lib.CachedBmp_260();
 	this.instance_11.setTransform(2.45,-163.35,0.5,0.5);
@@ -11180,7 +11180,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_15.setTransform(115.8,-162.4,0.5,0.5);
 
 	this.instance_16 = new lib.CachedBmp_267();
-	this.instance_16.setTransform(106.5,-205.9,0.5,0.5);
+	this.instance_16.setTransform(106.5,-205.85,0.5,0.5);
 
 	this.instance_17 = new lib.CachedBmp_266();
 	this.instance_17.setTransform(-3.75,-159.65,0.5,0.5);
@@ -11188,12 +11188,12 @@ if (reversed == null) { reversed = false; }
 	this.instance_18 = new lib.CachedBmp_265();
 	this.instance_18.setTransform(115.55,-118,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1,p:{regX:84,regY:112.4,scaleX:1,scaleY:1,rotation:0,x:247.75,y:-123.2}},{t:this.instance}]}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_1,p:{regX:84.8,regY:112,scaleX:0.9996,scaleY:0.9996,rotation:-11.2309,x:278.75,y:-141.85}},{t:this.instance_4}]},5).to({state:[{t:this.instance_9},{t:this.instance_8},{t:this.instance_1,p:{regX:85.7,regY:112.3,scaleX:0.9994,scaleY:0.9994,rotation:-43.2406,x:304.1,y:-173.5}},{t:this.instance_7}]},5).to({state:[{t:this.instance_12},{t:this.instance_11},{t:this.instance_1,p:{regX:85.5,regY:111.9,scaleX:0.9993,scaleY:0.9993,rotation:-49.2391,x:266.5,y:-214.4}},{t:this.instance_10}]},6).to({state:[{t:this.instance_15},{t:this.instance_14},{t:this.instance_1,p:{regX:84.4,regY:112.5,scaleX:0.9994,scaleY:0.9994,rotation:-41.7633,x:231.25,y:-215.55}},{t:this.instance_13}]},6).to({state:[{t:this.instance_18},{t:this.instance_17},{t:this.instance_1,p:{regX:85.5,regY:112,scaleX:0.9994,scaleY:0.9994,rotation:-37.5878,x:203.15,y:-186.4}},{t:this.instance_16}]},5).wait(13));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1,p:{regX:84,regY:112.4,scaleX:1,scaleY:1,rotation:0,x:247.75,y:-123.2}},{t:this.instance}]}).to({state:[{t:this.instance_6},{t:this.instance_5},{t:this.instance_1,p:{regX:84.9,regY:112,scaleX:0.9996,scaleY:0.9996,rotation:-11.2312,x:278.75,y:-141.8}},{t:this.instance_4}]},6).to({state:[{t:this.instance_9},{t:this.instance_8},{t:this.instance_1,p:{regX:85.8,regY:112.3,scaleX:0.9994,scaleY:0.9994,rotation:-43.2399,x:304.1,y:-173.45}},{t:this.instance_7}]},6).to({state:[{t:this.instance_12},{t:this.instance_11},{t:this.instance_1,p:{regX:85.7,regY:111.8,scaleX:0.9992,scaleY:0.9992,rotation:-49.2386,x:266.45,y:-214.5}},{t:this.instance_10}]},7).to({state:[{t:this.instance_15},{t:this.instance_14},{t:this.instance_1,p:{regX:84.4,regY:112.5,scaleX:0.9994,scaleY:0.9994,rotation:-41.7626,x:231.15,y:-215.55}},{t:this.instance_13}]},7).to({state:[{t:this.instance_18},{t:this.instance_17},{t:this.instance_1,p:{regX:85.7,regY:112,scaleX:0.9993,scaleY:0.9993,rotation:-37.5869,x:203.25,y:-186.45}},{t:this.instance_16}]},6).wait(20));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-3.7,-292.4,440.9,538.5999999999999);
+p.nominalBounds = new cjs.Rectangle(-3.7,-292.4,440.8,538.5999999999999);
 
 
 (lib.pullingDown2_cactus = function(mode,startPosition,loop,reversed) {
@@ -12814,91 +12814,91 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_73.png?1612950465396", id:"CachedBmp_73"},
-		{src:"images/Patriarch_tombjfif.jpg?1612950465396", id:"Patriarch_tombjfif"},
-		{src:"images/Title.png?1612950465396", id:"Title"},
-		{src:"images/wild_west_atlas_1.png?1612950465006", id:"wild_west_atlas_1"},
-		{src:"images/wild_west_atlas_2.png?1612950465007", id:"wild_west_atlas_2"},
-		{src:"images/wild_west_atlas_3.png?1612950465007", id:"wild_west_atlas_3"},
-		{src:"images/wild_west_atlas_4.png?1612950465007", id:"wild_west_atlas_4"},
-		{src:"images/wild_west_atlas_5.png?1612950465008", id:"wild_west_atlas_5"},
-		{src:"images/wild_west_atlas_6.png?1612950465008", id:"wild_west_atlas_6"},
-		{src:"images/wild_west_atlas_7.png?1612950465008", id:"wild_west_atlas_7"},
-		{src:"images/wild_west_atlas_8.png?1612950465009", id:"wild_west_atlas_8"},
-		{src:"images/wild_west_atlas_9.png?1612950465009", id:"wild_west_atlas_9"},
-		{src:"images/wild_west_atlas_10.png?1612950465010", id:"wild_west_atlas_10"},
-		{src:"images/wild_west_atlas_11.png?1612950465010", id:"wild_west_atlas_11"},
-		{src:"images/wild_west_atlas_12.png?1612950465010", id:"wild_west_atlas_12"},
-		{src:"images/wild_west_atlas_13.png?1612950465011", id:"wild_west_atlas_13"},
-		{src:"images/wild_west_atlas_14.png?1612950465011", id:"wild_west_atlas_14"},
-		{src:"images/wild_west_atlas_15.png?1612950465012", id:"wild_west_atlas_15"},
-		{src:"images/wild_west_atlas_16.png?1612950465012", id:"wild_west_atlas_16"},
-		{src:"images/wild_west_atlas_17.png?1612950465013", id:"wild_west_atlas_17"},
-		{src:"images/wild_west_atlas_18.png?1612950465013", id:"wild_west_atlas_18"},
-		{src:"images/wild_west_atlas_19.png?1612950465014", id:"wild_west_atlas_19"},
-		{src:"images/wild_west_atlas_20.png?1612950465014", id:"wild_west_atlas_20"},
-		{src:"images/wild_west_atlas_21.png?1612950465023", id:"wild_west_atlas_21"},
-		{src:"images/wild_west_atlas_22.png?1612950465024", id:"wild_west_atlas_22"},
-		{src:"images/wild_west_atlas_23.png?1612950465025", id:"wild_west_atlas_23"},
-		{src:"images/wild_west_atlas_24.png?1612950465025", id:"wild_west_atlas_24"},
-		{src:"images/wild_west_atlas_25.png?1612950465026", id:"wild_west_atlas_25"},
-		{src:"images/wild_west_atlas_26.png?1612950465026", id:"wild_west_atlas_26"},
-		{src:"images/wild_west_atlas_27.png?1612950465026", id:"wild_west_atlas_27"},
-		{src:"images/wild_west_atlas_28.png?1612950465027", id:"wild_west_atlas_28"},
-		{src:"images/wild_west_atlas_29.png?1612950465027", id:"wild_west_atlas_29"},
-		{src:"images/wild_west_atlas_30.png?1612950465028", id:"wild_west_atlas_30"},
-		{src:"images/wild_west_atlas_31.png?1612950465028", id:"wild_west_atlas_31"},
-		{src:"images/wild_west_atlas_32.png?1612950465029", id:"wild_west_atlas_32"},
-		{src:"images/wild_west_atlas_33.png?1612950465029", id:"wild_west_atlas_33"},
-		{src:"images/wild_west_atlas_34.png?1612950465030", id:"wild_west_atlas_34"},
-		{src:"images/wild_west_atlas_35.png?1612950465030", id:"wild_west_atlas_35"},
-		{src:"images/wild_west_atlas_36.png?1612950465031", id:"wild_west_atlas_36"},
-		{src:"images/wild_west_atlas_37.png?1612950465031", id:"wild_west_atlas_37"},
-		{src:"images/wild_west_atlas_38.png?1612950465031", id:"wild_west_atlas_38"},
-		{src:"images/wild_west_atlas_39.png?1612950465032", id:"wild_west_atlas_39"},
-		{src:"images/wild_west_atlas_40.png?1612950465032", id:"wild_west_atlas_40"},
-		{src:"images/wild_west_atlas_41.png?1612950465033", id:"wild_west_atlas_41"},
-		{src:"images/wild_west_atlas_42.png?1612950465033", id:"wild_west_atlas_42"},
-		{src:"images/wild_west_atlas_43.png?1612950465034", id:"wild_west_atlas_43"},
-		{src:"images/wild_west_atlas_44.png?1612950465034", id:"wild_west_atlas_44"},
-		{src:"images/wild_west_atlas_45.png?1612950465035", id:"wild_west_atlas_45"},
-		{src:"images/wild_west_atlas_46.png?1612950465035", id:"wild_west_atlas_46"},
-		{src:"images/wild_west_atlas_47.png?1612950465036", id:"wild_west_atlas_47"},
-		{src:"images/wild_west_atlas_48.png?1612950465036", id:"wild_west_atlas_48"},
-		{src:"images/wild_west_atlas_49.png?1612950465037", id:"wild_west_atlas_49"},
-		{src:"images/wild_west_atlas_50.png?1612950465037", id:"wild_west_atlas_50"},
-		{src:"images/wild_west_atlas_51.png?1612950465038", id:"wild_west_atlas_51"},
-		{src:"images/wild_west_atlas_52.png?1612950465038", id:"wild_west_atlas_52"},
-		{src:"images/wild_west_atlas_53.png?1612950465039", id:"wild_west_atlas_53"},
-		{src:"images/wild_west_atlas_54.png?1612950465039", id:"wild_west_atlas_54"},
-		{src:"images/wild_west_atlas_55.png?1612950465040", id:"wild_west_atlas_55"},
-		{src:"images/wild_west_atlas_56.png?1612950465041", id:"wild_west_atlas_56"},
-		{src:"images/wild_west_atlas_57.png?1612950465041", id:"wild_west_atlas_57"},
-		{src:"images/wild_west_atlas_58.png?1612950465042", id:"wild_west_atlas_58"},
-		{src:"images/wild_west_atlas_59.png?1612950465042", id:"wild_west_atlas_59"},
-		{src:"images/wild_west_atlas_60.png?1612950465043", id:"wild_west_atlas_60"},
-		{src:"images/wild_west_atlas_61.png?1612950465044", id:"wild_west_atlas_61"},
-		{src:"images/wild_west_atlas_62.png?1612950465044", id:"wild_west_atlas_62"},
-		{src:"images/wild_west_atlas_63.png?1612950465045", id:"wild_west_atlas_63"},
-		{src:"images/wild_west_atlas_64.png?1612950465045", id:"wild_west_atlas_64"},
-		{src:"images/wild_west_atlas_65.png?1612950465046", id:"wild_west_atlas_65"},
-		{src:"images/wild_west_atlas_66.png?1612950465046", id:"wild_west_atlas_66"},
-		{src:"images/wild_west_atlas_67.png?1612950465047", id:"wild_west_atlas_67"},
-		{src:"images/wild_west_atlas_68.png?1612950465048", id:"wild_west_atlas_68"},
-		{src:"images/wild_west_atlas_69.png?1612950465048", id:"wild_west_atlas_69"},
-		{src:"images/wild_west_atlas_70.png?1612950465049", id:"wild_west_atlas_70"},
-		{src:"images/wild_west_atlas_71.png?1612950465049", id:"wild_west_atlas_71"},
-		{src:"images/wild_west_atlas_72.png?1612950465050", id:"wild_west_atlas_72"},
-		{src:"images/wild_west_atlas_73.png?1612950465051", id:"wild_west_atlas_73"},
-		{src:"images/wild_west_atlas_74.png?1612950465051", id:"wild_west_atlas_74"},
-		{src:"images/wild_west_atlas_75.png?1612950465052", id:"wild_west_atlas_75"},
-		{src:"images/wild_west_atlas_76.png?1612950465053", id:"wild_west_atlas_76"},
-		{src:"images/wild_west_atlas_77.png?1612950465054", id:"wild_west_atlas_77"},
-		{src:"images/wild_west_atlas_78.png?1612950465056", id:"wild_west_atlas_78"},
-		{src:"images/wild_west_atlas_79.png?1612950465058", id:"wild_west_atlas_79"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1612950465396", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1612950465396", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/combobox.js?1612950465396", id:"an.ComboBox"}
+		{src:"images/CachedBmp_73.png?1612956280714", id:"CachedBmp_73"},
+		{src:"images/Patriarch_tombjfif.jpg?1612956280714", id:"Patriarch_tombjfif"},
+		{src:"images/Title.png?1612956280714", id:"Title"},
+		{src:"images/wild_west_atlas_1.png?1612956280431", id:"wild_west_atlas_1"},
+		{src:"images/wild_west_atlas_2.png?1612956280432", id:"wild_west_atlas_2"},
+		{src:"images/wild_west_atlas_3.png?1612956280432", id:"wild_west_atlas_3"},
+		{src:"images/wild_west_atlas_4.png?1612956280432", id:"wild_west_atlas_4"},
+		{src:"images/wild_west_atlas_5.png?1612956280433", id:"wild_west_atlas_5"},
+		{src:"images/wild_west_atlas_6.png?1612956280433", id:"wild_west_atlas_6"},
+		{src:"images/wild_west_atlas_7.png?1612956280433", id:"wild_west_atlas_7"},
+		{src:"images/wild_west_atlas_8.png?1612956280434", id:"wild_west_atlas_8"},
+		{src:"images/wild_west_atlas_9.png?1612956280434", id:"wild_west_atlas_9"},
+		{src:"images/wild_west_atlas_10.png?1612956280435", id:"wild_west_atlas_10"},
+		{src:"images/wild_west_atlas_11.png?1612956280435", id:"wild_west_atlas_11"},
+		{src:"images/wild_west_atlas_12.png?1612956280435", id:"wild_west_atlas_12"},
+		{src:"images/wild_west_atlas_13.png?1612956280436", id:"wild_west_atlas_13"},
+		{src:"images/wild_west_atlas_14.png?1612956280436", id:"wild_west_atlas_14"},
+		{src:"images/wild_west_atlas_15.png?1612956280437", id:"wild_west_atlas_15"},
+		{src:"images/wild_west_atlas_16.png?1612956280437", id:"wild_west_atlas_16"},
+		{src:"images/wild_west_atlas_17.png?1612956280437", id:"wild_west_atlas_17"},
+		{src:"images/wild_west_atlas_18.png?1612956280438", id:"wild_west_atlas_18"},
+		{src:"images/wild_west_atlas_19.png?1612956280438", id:"wild_west_atlas_19"},
+		{src:"images/wild_west_atlas_20.png?1612956280439", id:"wild_west_atlas_20"},
+		{src:"images/wild_west_atlas_21.png?1612956280445", id:"wild_west_atlas_21"},
+		{src:"images/wild_west_atlas_22.png?1612956280445", id:"wild_west_atlas_22"},
+		{src:"images/wild_west_atlas_23.png?1612956280446", id:"wild_west_atlas_23"},
+		{src:"images/wild_west_atlas_24.png?1612956280446", id:"wild_west_atlas_24"},
+		{src:"images/wild_west_atlas_25.png?1612956280447", id:"wild_west_atlas_25"},
+		{src:"images/wild_west_atlas_26.png?1612956280447", id:"wild_west_atlas_26"},
+		{src:"images/wild_west_atlas_27.png?1612956280447", id:"wild_west_atlas_27"},
+		{src:"images/wild_west_atlas_28.png?1612956280448", id:"wild_west_atlas_28"},
+		{src:"images/wild_west_atlas_29.png?1612956280448", id:"wild_west_atlas_29"},
+		{src:"images/wild_west_atlas_30.png?1612956280449", id:"wild_west_atlas_30"},
+		{src:"images/wild_west_atlas_31.png?1612956280449", id:"wild_west_atlas_31"},
+		{src:"images/wild_west_atlas_32.png?1612956280450", id:"wild_west_atlas_32"},
+		{src:"images/wild_west_atlas_33.png?1612956280450", id:"wild_west_atlas_33"},
+		{src:"images/wild_west_atlas_34.png?1612956280450", id:"wild_west_atlas_34"},
+		{src:"images/wild_west_atlas_35.png?1612956280451", id:"wild_west_atlas_35"},
+		{src:"images/wild_west_atlas_36.png?1612956280451", id:"wild_west_atlas_36"},
+		{src:"images/wild_west_atlas_37.png?1612956280452", id:"wild_west_atlas_37"},
+		{src:"images/wild_west_atlas_38.png?1612956280452", id:"wild_west_atlas_38"},
+		{src:"images/wild_west_atlas_39.png?1612956280452", id:"wild_west_atlas_39"},
+		{src:"images/wild_west_atlas_40.png?1612956280453", id:"wild_west_atlas_40"},
+		{src:"images/wild_west_atlas_41.png?1612956280453", id:"wild_west_atlas_41"},
+		{src:"images/wild_west_atlas_42.png?1612956280454", id:"wild_west_atlas_42"},
+		{src:"images/wild_west_atlas_43.png?1612956280454", id:"wild_west_atlas_43"},
+		{src:"images/wild_west_atlas_44.png?1612956280455", id:"wild_west_atlas_44"},
+		{src:"images/wild_west_atlas_45.png?1612956280455", id:"wild_west_atlas_45"},
+		{src:"images/wild_west_atlas_46.png?1612956280456", id:"wild_west_atlas_46"},
+		{src:"images/wild_west_atlas_47.png?1612956280456", id:"wild_west_atlas_47"},
+		{src:"images/wild_west_atlas_48.png?1612956280457", id:"wild_west_atlas_48"},
+		{src:"images/wild_west_atlas_49.png?1612956280457", id:"wild_west_atlas_49"},
+		{src:"images/wild_west_atlas_50.png?1612956280458", id:"wild_west_atlas_50"},
+		{src:"images/wild_west_atlas_51.png?1612956280458", id:"wild_west_atlas_51"},
+		{src:"images/wild_west_atlas_52.png?1612956280458", id:"wild_west_atlas_52"},
+		{src:"images/wild_west_atlas_53.png?1612956280459", id:"wild_west_atlas_53"},
+		{src:"images/wild_west_atlas_54.png?1612956280459", id:"wild_west_atlas_54"},
+		{src:"images/wild_west_atlas_55.png?1612956280460", id:"wild_west_atlas_55"},
+		{src:"images/wild_west_atlas_56.png?1612956280460", id:"wild_west_atlas_56"},
+		{src:"images/wild_west_atlas_57.png?1612956280461", id:"wild_west_atlas_57"},
+		{src:"images/wild_west_atlas_58.png?1612956280461", id:"wild_west_atlas_58"},
+		{src:"images/wild_west_atlas_59.png?1612956280462", id:"wild_west_atlas_59"},
+		{src:"images/wild_west_atlas_60.png?1612956280462", id:"wild_west_atlas_60"},
+		{src:"images/wild_west_atlas_61.png?1612956280463", id:"wild_west_atlas_61"},
+		{src:"images/wild_west_atlas_62.png?1612956280463", id:"wild_west_atlas_62"},
+		{src:"images/wild_west_atlas_63.png?1612956280464", id:"wild_west_atlas_63"},
+		{src:"images/wild_west_atlas_64.png?1612956280464", id:"wild_west_atlas_64"},
+		{src:"images/wild_west_atlas_65.png?1612956280465", id:"wild_west_atlas_65"},
+		{src:"images/wild_west_atlas_66.png?1612956280465", id:"wild_west_atlas_66"},
+		{src:"images/wild_west_atlas_67.png?1612956280466", id:"wild_west_atlas_67"},
+		{src:"images/wild_west_atlas_68.png?1612956280466", id:"wild_west_atlas_68"},
+		{src:"images/wild_west_atlas_69.png?1612956280467", id:"wild_west_atlas_69"},
+		{src:"images/wild_west_atlas_70.png?1612956280467", id:"wild_west_atlas_70"},
+		{src:"images/wild_west_atlas_71.png?1612956280468", id:"wild_west_atlas_71"},
+		{src:"images/wild_west_atlas_72.png?1612956280469", id:"wild_west_atlas_72"},
+		{src:"images/wild_west_atlas_73.png?1612956280469", id:"wild_west_atlas_73"},
+		{src:"images/wild_west_atlas_74.png?1612956280470", id:"wild_west_atlas_74"},
+		{src:"images/wild_west_atlas_75.png?1612956280470", id:"wild_west_atlas_75"},
+		{src:"images/wild_west_atlas_76.png?1612956280471", id:"wild_west_atlas_76"},
+		{src:"images/wild_west_atlas_77.png?1612956280472", id:"wild_west_atlas_77"},
+		{src:"images/wild_west_atlas_78.png?1612956280474", id:"wild_west_atlas_78"},
+		{src:"images/wild_west_atlas_79.png?1612956280476", id:"wild_west_atlas_79"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1612956280714", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1612956280714", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/combobox.js?1612956280714", id:"an.ComboBox"}
 	],
 	preloads: []
 };
